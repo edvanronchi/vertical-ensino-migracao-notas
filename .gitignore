@@ -1,0 +1,4 @@
+node_modules
+./src/logs/log-id.log
+.env
+src/json/*

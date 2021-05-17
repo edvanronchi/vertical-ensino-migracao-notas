@@ -1,0 +1,17 @@
+{
+  "name": "sybase-node-migration-educacao",
+  "version": "1.0.0",
+  "description": "Script de migração de notas ",
+  "main": "server.js",
+  "author": "Edvan Ronchi",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "delay": "^5.0.0",
+    "jsonfile": "^6.1.0",
+    "node-sybase-nu": "^2.0.11"
+  }
+}
